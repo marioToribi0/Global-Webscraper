@@ -32,13 +32,13 @@
 
 <hr> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/mariotoribi0" target="_blank">Author</a>
-</p>
+</p> -->
 
 <br>
 
@@ -67,8 +67,8 @@ $ poetry run global_webscraper main.py
 
 ```
 
-Made with :heart: by <a href="https://github.com/mariotoribi0" target="_blank">Mario Toribio</a>
+<!-- Made with :heart: by <a href="https://github.com/mariotoribi0" target="_blank">Mario Toribio</a>
 
-&#xa0;
+&#xa0; -->
 
-<a href="#top">Back to top</a>
+<!-- <a href="#top">Back to top</a> -->
