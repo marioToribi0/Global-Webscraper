@@ -40,8 +40,6 @@
   <a href="https://github.com/mariotoribi0" target="_blank">Author</a>
 </p> -->
 
-<br>
-
 ## :dart: About ##
 
 Extract information from any website, taking in considered the pages inside the original website.
