@@ -42,7 +42,7 @@
 
 ## :dart: About ##
 
-Extract information from any website, taking in considered the pages inside the original website.
+Extract information from any website, taking in considered the pages inside the original website. Useful to ingest data to vectorized databases for RAG architectures or others alternatives for LLMs.
 
 ## :white_check_mark: Requirements ##
 
