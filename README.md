@@ -61,7 +61,7 @@ $ cd global-webscrapper
 $ poetry install
 
 # Run the project
-$ poetry run global_webscraper main.py
+$ poetry run python global_webscraper/main.py
 
 ```
 
