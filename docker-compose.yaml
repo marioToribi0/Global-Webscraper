@@ -1,0 +1,12 @@
+version: '3.0'
+
+services:
+  redis-db:
+    container_name: redis
+    image: redis/redis-stack-server
+    ports:
+      - "25061:8001"
+    environment:
+      - REDIS_ARGS="--requirepass PASSWORD"
+    volumes:
+      - /redis-data/:/data

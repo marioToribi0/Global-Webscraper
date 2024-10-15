@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from typing import List
-from global_webscraper.scraper.utilities import extract_url_webpage, validate_url_webpage, extract_chunks
+from scraper.utilities import extract_url_webpage, validate_url_webpage, extract_chunks
 import functools
 import operator
 
